@@ -12,12 +12,7 @@ This work introduces a novel approach for deepfake detection that leverages the 
 ### Dependencies
 
 ```bash
-pip install torch torchvision torchaudio
-pip install transformers
-pip install peft  # for LoRA fine-tuning
-pip install kornia
-pip install opencv-python
-pip install timm==0.6.7
+pip install -r requirements.txt
 ```
 
 ### Additional Requirements
