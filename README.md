@@ -45,13 +45,7 @@ input/
 └── 4_img.png
 ```
 
-### 3. Run Inference
-
-```bash
-python inference.py
-```
-
-### 4. Configuration
+### 3. Configuration
 
 Update the model paths in `inference.py`:
 
