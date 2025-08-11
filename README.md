@@ -29,7 +29,7 @@ Download the pre-trained checkpoints:
 
 ```bash
 
-Download our fine-tuned checkpoint from https://pan.baidu.com/s/1jPgpi-zluxeXGUAPrqJv0Q?pwd=iuy7 提取码: iuy7 
+Download our fine-tuned checkpoint from https://pan.baidu.com/s/1jPgpi-zluxeXGUAPrqJv0Q?pwd=iuy7
 Place in: checkpoint/ckpt.pth
 ```
 
