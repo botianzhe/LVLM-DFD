@@ -84,12 +84,19 @@ python inference.py
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{yu2025unlocking,
-  title={Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection},
-  author={Yu, Peipeng and Fei, Jianwei and Gao, Hui and Feng, Xuan and Xia, Zhihua and Chang, Chip Hong},
-  journal={arXiv preprint arXiv:2503.14853},
-  year={2025}
+@InProceedings{pmlr-v267-yu25d,
+  title = 	 {Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection},
+  author =       {Yu, Peipeng and Fei, Jianwei and Gao, Hui and Feng, Xuan and Xia, Zhihua and Chang, Chip Hong},
+  booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = 	 {72925--72943},
+  year = 	 {2025},
+  editor = 	 {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
+  volume = 	 {267},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--19 Jul},
+  publisher =    {PMLR}
 }
+
 ```
 
 ## 🙏 Acknowledgments
